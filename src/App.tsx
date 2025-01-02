@@ -19,8 +19,8 @@ function App() {
                     </div>
                 </main>
                 <footer>
-                    <a href=""><button className={"primary-button"}>Download CV</button></a>
-                    <a href="https://nl.linkedin.com/in/gilian-everink-937839242"><button>LinkedIn</button></a>
+                    {/*<a href=""><button className={"primary-button"}>Download CV</button></a>*/}
+                    <a href="https://nl.linkedin.com/in/gilian-everink-937839242"><button className={"primary-button"}>LinkedIn</button></a>
                     <a href="mailto:mail@gilianeverink.nl"><button>Mail</button></a>
                 </footer>
             </div>
